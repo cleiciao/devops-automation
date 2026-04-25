@@ -11,3 +11,8 @@ Bem-Vindo ao repostorio ! Estudos devops
 
 
 #### Estrutura do projeto
+
+
+-------
+
+#Adicionando novos arquivos no projeto
